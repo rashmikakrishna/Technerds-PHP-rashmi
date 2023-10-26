@@ -8,4 +8,6 @@ echo("technerds"."<br>".$a);
 print"technerds"."<br>".$a;
 print("technerds<br>".$a);
 echo"technerds<br>".$a;
-?>
+
+
+?> 
